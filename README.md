@@ -22,6 +22,6 @@ Current development undergoing for the quiz mode, where after learning about a p
 ![](https://github.com/jaywoojo/Learn-MET-Museum/blob/master/README%20images/1.png)
 ![](https://github.com/jaywoojo/Learn-MET-Museum/blob/master/README%20images/2.png)
 ![](https://github.com/jaywoojo/Learn-MET-Museum/blob/master/README%20images/5.png)
-![](https://github.com/jaywoojo/Learn-MET-Museum/blob/master/README%20images/6.jpg)
+![](https://github.com/jaywoojo/Learn-MET-Museum/blob/master/README%20images/6.png)
 ![](https://github.com/jaywoojo/Learn-MET-Museum/blob/master/README%20images/4.jpg)
 
