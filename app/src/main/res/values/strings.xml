@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Kotlin199</string>
+    <string name="app_name">Final Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_learn2">LearnActivity2</string>
+    <string name="title_activity_asianart">AsianartActivity</string>
+    <string name="title_activity_european_art">EuropeanArtActivity</string>
 </resources>
