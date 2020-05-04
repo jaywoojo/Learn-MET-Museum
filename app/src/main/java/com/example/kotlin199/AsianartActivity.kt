@@ -76,26 +76,26 @@ class AsianartActivity : AppCompatActivity() {
                         //TextView artist = findViewById(R.id.artist);
                         //artist.setVisibility(View.GONE);
                         val title = "     " + response.getString("title")
-                        titleBox!!.text = title
+                        titleBox.text = title
                         val artist = "     " + response.getString("artistDisplayName")
                         if (response.getString("artistDisplayName") == "") {
-                            artistBox!!.text = "     No artist associated"
+                            artistBox.text = "     No artist associated"
                         } else {
-                            artistBox!!.text = artist
+                            artistBox.text = artist
                         }
                         val medium = "     " + response.getString("medium")
-                        mediumBox!!.text = medium
+                        mediumBox.text = medium
                         val objectDate = "     " + response.getString("objectDate")
                         if (response.getString("objectDate") == "") {
-                            objectDateBox!!.text = "     No date associated"
+                            objectDateBox.text = "     No date associated"
                         } else {
-                            objectDateBox!!.text = objectDate
+                            objectDateBox.text = objectDate
                         }
                         val culture = "     " + response.getString("culture")
                         if (response.getString("culture") == "") {
-                            cultureBox!!.text = "     No culture associated"
+                            cultureBox.text = "     No culture associated"
                         } else {
-                            cultureBox!!.text = culture
+                            cultureBox.text = culture
                         }
 
                         val url = response.getString("primaryImage")
@@ -110,7 +110,7 @@ class AsianartActivity : AppCompatActivity() {
             println("internet broken")
             println(error.message + "hi")
         })
-        queue!!.add(request)
+        queue.add(request)
     }
 
     private fun generateID() {
