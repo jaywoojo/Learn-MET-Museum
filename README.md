@@ -17,5 +17,6 @@ The app has two modes: the "learn mode" and the "quiz mode". where the learn mod
 
 Current development undergoing for the quiz mode, where after learning about a piece the app will store the data using SQLite and be able to create a multiple choice quiz. Also, currently only two departments generate art pieces (easy copy and paste fix).
 
+![](README images/1.png)
 
 
